@@ -1,0 +1,4 @@
+{
+  "accessibility.verbosity.inlineCompletions": false,
+  "dotnet.completion.showCompletionItemsFromUnimportedNamespaces": false
+}
